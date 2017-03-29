@@ -1,0 +1,8 @@
+C:\Users\jrasat3\Desktop\C#\WavFormating\WavFormating\bin\Debug\WavFormating.exe.config
+C:\Users\jrasat3\Desktop\C#\WavFormating\WavFormating\bin\Debug\WavFormating.exe
+C:\Users\jrasat3\Desktop\C#\WavFormating\WavFormating\bin\Debug\WavFormating.pdb
+C:\Users\jrasat3\Desktop\C#\WavFormating\WavFormating\bin\Debug\NAudio.dll
+C:\Users\jrasat3\Desktop\C#\WavFormating\WavFormating\bin\Debug\NAudio.xml
+C:\Users\jrasat3\Desktop\C#\WavFormating\WavFormating\obj\Debug\WavFormating.csprojResolveAssemblyReference.cache
+C:\Users\jrasat3\Desktop\C#\WavFormating\WavFormating\obj\Debug\WavFormating.exe
+C:\Users\jrasat3\Desktop\C#\WavFormating\WavFormating\obj\Debug\WavFormating.pdb
